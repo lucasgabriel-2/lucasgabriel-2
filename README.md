@@ -1,4 +1,4 @@
-### Hi, my name is Lucas and i'm a Software Engineer student at Universidade de Brasília
+### Hi, my name is Lucas and i'm a Software Engineer student
 
 <div align="center">
   <a href="https://github.com/lucasgabriel-2">
