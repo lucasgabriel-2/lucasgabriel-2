@@ -1,7 +1,6 @@
-##
-
 ### Hi, my name is Lucas and i'm a Software Engineer student at Universidade de Brasília (UnB)
 
+##
 <div align="center">
   <a href="https://github.com/lucasgabriel-2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgabriel-2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
