@@ -1,4 +1,3 @@
-### Hi, my name is Lucas and i'm a Software Engineer student
 <div style="display:flex">  
   <div align="center">
     <a href="https://github.com/lucasgabriel-2">
