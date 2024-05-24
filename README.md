@@ -1,4 +1,4 @@
-### Hi, my name is Lucas and i'm a Software Engineer student at Universidade de Brasília (UnB)
+### Hi, my name is Lucas and i'm a Software Engineer student at University of Brasília (UnB)
 
 ##
 <div align="center">
